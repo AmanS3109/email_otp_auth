@@ -27,7 +27,7 @@ This is a minimal Django backend project for email-based OTP verification, built
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/email-otp-auth.git
+git clone https://[github.com/AmanS3109/email-otp-auth.git](https://github.com/AmanS3109/email_otp_auth/tree/main)
 cd email_otp_auth
 ```
 
