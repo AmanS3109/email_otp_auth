@@ -1,0 +1,34 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media
+staticfiles
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Docker
+*.pid
+*.tar
+*.log
+docker-compose.override.yml
+
+# OS files
+.DS_Store
+Thumbs.db
